@@ -41,7 +41,7 @@ Full diagram: see the deck in `docs/`.
 | Path | Description |
 |---|---|
 | `index.html` | Working prototype — a simulated live analyst console (open directly in any browser, or view via GitHub Pages) |
-| `docs/Q-Sentinel_Finspark_Hackathon.pptx` | Full hackathon submission deck |
+| `Q-Sentinel_Finspark_Hackathon.pptx` | Full hackathon submission deck |
 
 ## Running the Prototype Locally
 
