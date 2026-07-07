@@ -6,7 +6,6 @@ Built for **Finspark Hackathon 2026** (Bank of Maharashtra) by **Team Quantums**
 
 🔗 **Live prototype:** `https://niharikasingh09.github.io/Q-Sentinel/`
 🎥 **Demo video:** https://drive.google.com/file/d/1mHcpgtT9RvpUy0gjsJ60eM2NXBmEsJdO/view?usp=sharing
-📊 **Slide deck:** [`docs/Q-Sentinel_Finspark_Hackathon.pptx`](docs/Q-Sentinel_Finspark_Hackathon.pptx)
 
 ---
 
